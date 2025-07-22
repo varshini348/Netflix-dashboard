@@ -85,6 +85,6 @@ Market trend analysis based on audience preferences
 
 10.Screenshot-https://github.com/varshini348/Netflix-dashboard/blob/main/Screenshot%202025-07-22%20114755.png
 
-💡 Conclusion
+💡 Conclusion:
 This dashboard serves as a compact, visual representation of Netflix's streaming catalog, allowing data-driven decisions in content creation, audience targeting, and entertainment market analysis.
 
